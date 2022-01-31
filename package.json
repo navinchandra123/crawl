@@ -1,0 +1,23 @@
+{
+  "name": "recursively-crawl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js ",
+  "scripts": {
+    "test": "\u001b[A\u001b[B"
+  },
+  "author": "Navin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^15.0.0",
+    "express": "^4.17.2",
+    "module_name": "^1.0.0",
+    "mongoose": "^6.1.8",
+    "node-fetch": "^3.2.0",
+    "nodemon": "^2.0.15"
+  },
+  "type": "module"
+}
